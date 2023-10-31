@@ -1,0 +1,16 @@
+MENTAL HEALTH SECTION DEFINITIONS
+Daily Stress: How much stress do you typically experience everyday?
+-  At work or at home, due to the environment (noise, pollution, insecurity...), your co-workers or boss, or because of tragic events such as divorce, job loss, serious illness, loss of family or friends,...
+- On average over 12 months 
+- On a scale of 0 (not much stress) to 5 (a lot of stress) for daily preceived level 
+
+Daily Shouting: How often do you shout or sulk at somebody?
+- In a typical week
+- Expressing negative emotions in an active (shouting) or passive (sulking) manner
+- On a scale of 0 (never) to 10 (or more times per week)
+
+Flow: In a typical day, how many hours do you experience "flow"?
+- 'Flow' is defined as the mental state in which you are fully immersed in performing an activity. If fully immersed, you will experience a feeling of energized focus, full involvement, and enjoyment in the process of the activity (see the YouTube video 'Flow, the secret to happiness' from Mihaly Csikszentmihalyi 
+- On a scale of 0 (none) to 10 (or more hours per day)
+
+EXPERTISE SECTION DEFINITIONS
