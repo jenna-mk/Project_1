@@ -1,3 +1,12 @@
+HEALTHY BODY CATEGORY DEFINITIONS
+Fruits and Vegetables:
+
+Daily Steps:
+
+BMI Range:
+
+Sleep Hours:
+
 HEALTHY MIND CATEGORY DEFINITIONS
 Daily Stress: How much stress do you typically experience everyday?
 -  At work or at home, due to the environment (noise, pollution, insecurity...), your co-workers or boss, or because of tragic events such as divorce, job loss, serious illness, loss of family or friends,...
@@ -13,6 +22,10 @@ Flow: In a typical day, how many hours do you experience "flow"?
 - 'Flow' is defined as the mental state in which you are fully immersed in performing an activity. If fully immersed, you will experience a feeling of energized focus, full involvement, and enjoyment in the process of the activity (see the YouTube video 'Flow, the secret to happiness' from Mihaly Csikszentmihalyi 
 - On a scale of 0 (none) to 10 (or more hours per day)
 
+Time for Passion:
+
+Weekly Meditation:
+
 EXPERTISE CATEGORY DEFINITIONS
 To-Do Completed: How well do you complete your to-do lists?
 - Include weekly goals, work- and personal-related tasks
@@ -23,6 +36,24 @@ Personal Awards: How many recognitions have you reveived in your life?
 - E.g. diploma, degree, certificate, accreditation, award, prize, published book, presentation at major conference, medals, cups, titles...
 - On a scale of 0 (none) to 10 (recognitions or more)
 
-Achievement: How many remarkable achievements are you proud of?
+Achievements: How many remarkable achievements are you proud of?
 - Over the last 12 months
 - Include persomal achievements known to your family known to your family, close friends, or co-workers, such as running a marathon or important race, birth, successful kids, new house or major renovation, major success at work, opening a new business,...
+
+CONNECTION CATEGORY DEFINITIONS  
+Places Visited:
+
+Social Network:
+
+Core Circle:
+
+MEANING CATEGORY DEFINITIONS
+Lost Vacation Time:
+
+Supporting Others:
+
+Life Vision:
+
+Donation:
+
+Sufficient Income: 
