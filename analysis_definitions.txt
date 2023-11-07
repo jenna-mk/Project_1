@@ -19,7 +19,7 @@ HEALTHY MIND CATEGORY DEFINITIONS
 Daily Stress: How much stress do you typically experience everyday?
 -  At work or at home, due to the environment (noise, pollution, insecurity...), your co-workers or boss, or because of tragic events such as divorce, job loss, serious illness, loss of family or friends,...
 - On average over 12 months 
-- On a scale of 0 (not much stress) to 5 (a lot of stress) for daily preceived level 
+- On a scale of 0 (not much stress) to 5 (a lot of stress) for daily perceived level 
 
 Daily Shouting: How often do you shout or sulk at somebody?
 - In a typical week
@@ -42,7 +42,7 @@ To-Do Completed: How well do you complete your to-do lists?
 - Include weekly goals, work- and personal-related tasks
 - On a scale of 0 (not at all) to 10 (very well)
 
-Personal Awards: How many recognitions have you reveived in your life?
+Personal Awards: How many recognitions have you received in your life?
 - Significant public recognitions validating a pero=sonal level of expertise and engagement
 - E.g. diploma, degree, certificate, accreditation, award, prize, published book, presentation at major conference, medals, cups, titles...
 - On a scale of 0 (none) to 10 (recognitions or more)
