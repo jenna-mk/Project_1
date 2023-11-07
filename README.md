@@ -13,7 +13,7 @@ The data on the results to each of these questions indicate that they each have 
 
 When analyzed with a question involving typical daily stress, this data appears to show that there may be diminishing returns on happiness/work-life balance as someone interacts with more and more people. This may indicate that respondents experience a certain level of fatigue when it comes to daily interactions with other people.
 
-The plots for these relationships are in the main_peter.ipynb notebook, adn the summary statistics are in the data folder in Networking_Summary_Table.csv.
+The plots for these relationships are in the main_peter.ipynb notebook, and the summary statistics are in the data folder in Networking_Summary_Table.csv.
 
 ## Healthy Mind 
 
@@ -68,7 +68,7 @@ In conclusion, maintaining a diet rich in fruits and vegetables, engaging in dai
 The plots showing these relationships are in the project_1_Daniel.ipynb notebook, and the summary statistics are in the data folder in Summary Table Daniel.csv.
 
 ## Conclusions
-In general, increases across questions expected to lead to healthier lifestyles were associated with higher work-life balance raw scores and score categories, and those increases across questions associated wt=ith less healthy lifestyles were associated with lower work-life balance raw scores and score bins.
+In general, increases across questions expected to lead to healthier lifestyles were associated with higher work-life balance raw scores and score categories, and those increases across questions associated with less healthy lifestyles were associated with lower work-life balance raw scores and score bins.
 
 The most significant changes between bins were consistently between the Poor and Good score categories. This could indicate that there is not much difference in lifestyle between the Good category and the Excellent category, though further research would need to be performed in order to study differences in score and category across the questions.
 
