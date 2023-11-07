@@ -1,9 +1,9 @@
 # Project 1: An Analysis of Work-Life Balance Scores Across 5 Dimensions of Lifestyle/Health
-The purpose of this project is to analyze trends in a survey dataset that calculates a work-life balance score based on 24 questions across 5 dimensions of health. Our project looks at how each of these survey questions varies or correlates with the calculated work-life balance score, with age, and with work-life balance score category, which are defined as Poor (a score of less than 550), Good (a score between 550 and 680), or Excellent (a score above 680).
+The purpose of this project is to analyze trends in a survey dataset that calculates a work-life balance score based on 24 questions across 5 dimensions of health. Our project looks at how each of these survey questions varies or correlates with the calculated work-life balance score, with age, and with work-life balance score category, which are defined as Poor (a score of less than 550), Good (a score between 550 and 680), or Excellent (a score above 680). The definition and scale for each question is shown in the analysis_definitions.txt file.
 
 ## Networking/Connection
 
-Trends were analyzed relating the Work-Life Balance Scores with questions involving networking and connection. Specifically, the answers to the following questions were analyzed:
+Trends were analyzed relating the Work-Life Balance Scores with questions involving networking and connection. Specifically, the following questions were analyzed:
 
 1.	With how many people do you interact with during a typical day?
 2.	How man people are very close to you?
@@ -15,7 +15,7 @@ When analyzed with a question involving typical daily stress, this data appears 
 
 ## Healthy Mind 
 
-Trends were analyzed relating the Work-Life Balance Scores with questions involving healthy mind practices. Specifically, the answers to the following questions were analyzed:
+Trends were analyzed relating the Work-Life Balance Scores with questions involving healthy mind practices. Specifically, the following questions were analyzed:
 
 1. How much stress do you typically experience everyday?
 2. How often do you shout or sulk at somebody?
@@ -27,10 +27,22 @@ The results of this analysis show that the above questions are directly related 
 
 ## Expertise
 
-Trends were analyzed relating the Work-Life Balance Scores with questions involving a person's ability to create something unique or expand their personal or professional expertise. Specifically, the answers to the following questions were analyzed:
+Trends were analyzed relating the Work-Life Balance Scores with questions involving a person's ability to create something unique or expand their personal or professional expertise. Specifically, the following questions were analyzed:
 
 1. How well do you complete your to-do lists?
 2. How many recognitions have you received in your life?
 3. How many remarkable achievements are you proud of?
 
-The results of this analysis show that work-life balance scores and work-life score categories consistently increased with increasing values of the above questions for both males and females. There was no consistent trend across the questions for age group. 
+The results of this analysis show that work-life balance scores and work-life score categories consistently increased with increasing values of the above questions for both males and females. There was no consistent trend across the questions for age group. The plots showing these relationships are in the expertise_analysis.ipynb notebook, and the summary statistics for this category is in the data folder in the expertise_summary.csv.
+
+## Meaning 
+
+Trends were analyzed relating the Work-Life Balance Scores with questions involving a person's life meaning, which includes their amount of compassion, generosity, and ability to live the life of their dreams. Specifically, the following questions were analyzed:
+
+1. How many days of vacation do you typically lose every year?
+2. How many people do you help achieve a better life?
+3. For how many years ahead is your life vision very clear for?
+4. How many times do you donate your time or money to good causes?
+5. How sufficient is your income to cover basic life expenses?
+
+The results of this analysis show that work-life balance scores and work-life score categories were consisently positively correlated with the responses for the questions involving helping others, donating, having a clear life vision, and sufficient income, and consistently negatively correlated with lost vacation days. There was no consistent trend across age categories. The plots showing these relationships are in the meaning_analysis.ipynb notebook, and the summary statistics for this category is in the data folder in the meaning_summary.csv.
