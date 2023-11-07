@@ -4,16 +4,16 @@ Fruits and Vegetables: How many fruits or vegetables do you eat everyday?
 - On a scale of 0 (none) to 5 (servings per day)
 
 Daily Steps: How many steps (in thousands) do you typically walk everyday?
-- Thousand steps, daily average over multiple days including work days and weeknd
+- Thousand steps, daily average over multiple days including work days and weeeknd
 - On a scale of 1 (less than 1,000) to 10 (thousand steps)
 
 BMI Range: What is your body mass index (BMI) range?
 - Your body mass index in kg divided by the square of your height in meters
 - On a binary scale of 1 (below 25) to 2 (above 25)
 
-Sleep Hours: How well do you complete your weekly to-do lists?
-- Include your weekly goals, work, and personal related tasks
-- On a scale of 0 (not at all) to 10 (very well) 
+Sleep Hours: About how long do you typically sleep?
+- Over the course of a typical working week, including weekend
+- On a scale of 1 (hour) to 10 (hours per night) 
 
 HEALTHY MIND CATEGORY DEFINITIONS
 Daily Stress: How much stress do you typically experience everyday?
