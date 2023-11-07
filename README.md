@@ -13,6 +13,7 @@ The data on the results to each of these questions indicate that they each have 
 When analyzed with a question involving typical daily stress, this data appears to show that there may be diminishing returns on happiness/work-life balance as someone interacts with more and more people. This may indicate that respondents experience a certain level of fatigue when it comes to daily interactions with other people.
 
 ## Healthy Mind 
+
 Trends were analyzed relating the Work-Life Balance Scores with questions involving healthy mind practices. Specificlaly, the answers to the following questions were analyzed:
 
 1. How much stress do you typically experience everyday?
@@ -21,4 +22,8 @@ Trends were analyzed relating the Work-Life Balance Scores with questions involv
 4. How many hours do you spend everyday doing what you are passionate about
 5. In a typical week, how many times do you have the opportunity to think about yourself?
 
-The results of this analysis show that the above questions are directly related to work-life balance scores positively for the "good" mental activities (which includes flow, time spent on activities you are passionate about, and thinking about yourself/meditative activities) and negatively with the "bad" mental activities (which includes stress and shouting/sulking). The plots for this section can be found in the healthy_mind_analysis.ipynb file, and the summary table can be found in the data folder under healthy_mind_summary.csv.
+The results of this analysis show that the above questions are directly related to work-life balance scores positively for the "good" mental activities (which includes flow, time spent on activities you are passionate about, and thinking about yourself/meditative activities) and negatively with the "bad" mental activities (which includes stress and shouting/sulking). The plots for this section can be found in the healthy_mind_analysis.ipynb file, and the summary table can be found in the data folder in the healthy_mind_summary.csv.
+
+## Expertise
+
+Trends were analyzed relating the Work-Life Balance Scores with questions involving 
