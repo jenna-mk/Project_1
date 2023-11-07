@@ -19,3 +19,5 @@ In the comparison of Sleeping Hours vs. Work Life Balance Score, we discovered t
 In conclusion, maintaining a diet rich in fruits and vegetables, engaging in daily exercise, and adhering to a healthy sleep schedule are key factors contributing to an improved Work Life Balance Score, ultimately leading to a healthier and happier life.
 
 For all PNG please check data folders
+
+PPT link https://docs.google.com/presentation/d/11KJZM4rT-6sAkppPB-boJg1efO4xrNEP2cUhTglkpPQ/edit?usp=sharing
