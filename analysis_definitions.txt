@@ -1,11 +1,19 @@
 HEALTHY BODY CATEGORY DEFINITIONS
-Fruits and Vegetables:
+Fruits and Vegetables: How many fruits or vegetables do you eat everyday?
+- In a typical day, averaging workdays and weekends
+- On a scale of 0 (none) to 5 (servings per day)
 
-Daily Steps:
+Daily Steps: How amny steps (in thousands) do you typically walk everyday?
+- Thousand steps, daily average over multiple days including work days and weeknd
+- On a scale of 1 (less than 1,000) to 10 (thousand steps)
 
-BMI Range:
+BMI Range: What is your body mass index (BMI) range?
+- Your body mass index in kg divided by the square of your height in meters
+- On a binary scale of 1 (below 25) to 2 (above 25)
 
-Sleep Hours:
+Sleep Hours: How well do you complete your weekly to-do lists?
+- Include your weekly goals, work, and personal related tasks
+- On a scale of 0 (not at all) to 10 (very well) 
 
 HEALTHY MIND CATEGORY DEFINITIONS
 Daily Stress: How much stress do you typically experience everyday?
@@ -22,9 +30,12 @@ Flow: In a typical day, how many hours do you experience "flow"?
 - 'Flow' is defined as the mental state in which you are fully immersed in performing an activity. If fully immersed, you will experience a feeling of energized focus, full involvement, and enjoyment in the process of the activity (see the YouTube video 'Flow, the secret to happiness' from Mihaly Csikszentmihalyi 
 - On a scale of 0 (none) to 10 (or more hours per day)
 
-Time for Passion:
+Time for Passion: How many hours do you spend everyday doing what you are passionate about?
+- Daily hours spend doing what you are passionate and dreaming about, and/or contributing to a greater cause: health, education, peace, society development, etc...
+- On a scale of 0 (none) to 10 (hours)
 
-Weekly Meditation:
+Weekly Meditation: In a typical week, how many times do you have the opportunity to think about yourself?
+- Include meditation, praying, and relaxation activities such as fitness, walking in a park, or lunch breaks
 
 EXPERTISE CATEGORY DEFINITIONS
 To-Do Completed: How well do you complete your to-do lists?
@@ -41,19 +52,41 @@ Achievements: How many remarkable achievements are you proud of?
 - Include persomal achievements known to your family known to your family, close friends, or co-workers, such as running a marathon or important race, birth, successful kids, new house or major renovation, major success at work, opening a new business,...
 
 CONNECTION CATEGORY DEFINITIONS  
-Places Visited:
+Places Visited: How many new places do you visit?
+- Over a period of 12 months
+- Include new states and new cities as well as museums, places of interest, and parks in your neighborhood
+- On a scale of 0 (none) to 10 (new places or more)
 
-Social Network:
+Social Network: How many people do you interact with during a typical day?
+- True interactions and dialogues at home, at work, at the gym,...
+- Average of workdays and weekends
+- On a scale of 0 (none) to 10 (people or more)
 
-Core Circle:
+Core Circle: How many people are very close to you?
+- i.e. close family and friends ready to provide you with a long-term unconditional support
+- on a scale of 0 (none) to 10 (people or more)
 
 MEANING CATEGORY DEFINITIONS
-Lost Vacation Time:
+Lost Vacation Time: How many days of vacation do you typically lose every year?
+- Vacation days that are unused, lost, or carried over into the following year
+- Or because of work stress during your vacation
+- On a scale of 0 (none) to 10 (vacation days)
 
-Supporting Others:
+Supporting Others: How many people do you help achieve a better life?
+- A reflection of your altruism or selflessness (see the TED video from Matthieu Ricard 'How to let altruism be your guide')
+- e.g. caring for your family, actively supporting a friend, mentoring, coaching, developing or promoting a co-worker,...
+- Over a period of 12 months
+- On a scale of 0 (none) to 10 (people or more)
 
-Life Vision:
+Life Vision: For how many years ahead is your life vision very clear for?
+- e.g. illustrated on a vision board, detailed in a personal journal, or openly discussed with your spouse or close friends
+- On a scale of 0 (I do not have a life vision) to 10 (years or more)
 
-Donation:
+Donation: How many times do you donate your time or money to good causes?
+- Over a period of 12 months
+- Include financial donation, your time contribution, fundraising, volunteering, serving your country or the poor,...
+- On a scale of 0 (none) to 5 (or more)
 
-Sufficient Income: 
+Sufficient Income: How sufficient is your income to cover basic life expenses?
+- Such as costs of housing, food, health care, car, and education
+- On a binary scale of 1 (not or hardly sufficent) to 2 (sufficient)
