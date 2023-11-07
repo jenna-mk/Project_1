@@ -1,0 +1,8 @@
+Category,Poor,Good,Excellent
+,GENDER,GENDER,GENDER
+FRUITS_VEGGIES     mean ,Female    1.000000,Female    2.637961,Female    3.662494
+,Male      0.566667,Male      2.339657,Male      3.385055
+DAILY_STEPS        mean,Female    2.022727,Female    4.830348,Female    6.792188
+,Male      2.166667, Male      5.144137,Male      7.036923
+SLEEP_HOURS        mean  ,Female    5.477273,Female    6.985016,Female    7.278918
+,Male      5.600000,Male      6.817918,Male      7.197802
