@@ -1,4 +1,5 @@
 # Project 1: An Analysis of Work-Life Balance Scores Across 5 Dimensions of Lifestyle/Health
+The purpose of this project is to analyze trends in a survey dataset that calculates a work-life balance score based on 24 questions across 5 dimensions of health. Our project looks at how each of these survey questions varies or correlates with the calculated work-life balance score, with age, and with work-life balance score category, which are defined as Poor (a score of less than 550), Good (a score between 550 and 680), or Excellent (a score above 680).
 
 ## Networking/Connection
 
@@ -14,7 +15,7 @@ When analyzed with a question involving typical daily stress, this data appears 
 
 ## Healthy Mind 
 
-Trends were analyzed relating the Work-Life Balance Scores with questions involving healthy mind practices. Specificlaly, the answers to the following questions were analyzed:
+Trends were analyzed relating the Work-Life Balance Scores with questions involving healthy mind practices. Specifically, the answers to the following questions were analyzed:
 
 1. How much stress do you typically experience everyday?
 2. How often do you shout or sulk at somebody?
@@ -22,8 +23,14 @@ Trends were analyzed relating the Work-Life Balance Scores with questions involv
 4. How many hours do you spend everyday doing what you are passionate about
 5. In a typical week, how many times do you have the opportunity to think about yourself?
 
-The results of this analysis show that the above questions are directly related to work-life balance scores positively for the "good" mental activities (which includes flow, time spent on activities you are passionate about, and thinking about yourself/meditative activities) and negatively with the "bad" mental activities (which includes stress and shouting/sulking). The plots for this section can be found in the healthy_mind_analysis.ipynb file, and the summary table can be found in the data folder in the healthy_mind_summary.csv.
+The results of this analysis show that the above questions are directly related to work-life balance scores positively for the "good" mental activities (which includes flow, time spent on activities you are passionate about, and thinking about yourself/meditative activities) and negatively with the "bad" mental activities (which includes stress and shouting/sulking). There are 3 plots per question: raw work-life balance score vs question, question vs age group, and question vs work-life score category. While the scores and score categories consistently increased or decreased with increasing or decreasing values across the questions, there was no consistent correlation across age groups. 
 
 ## Expertise
 
-Trends were analyzed relating the Work-Life Balance Scores with questions involving 
+Trends were analyzed relating the Work-Life Balance Scores with questions involving a person's ability to create something unique or expand their personal or professional expertise. Specifically, the answers to the following questions were analyzed:
+
+1. How well do you complete your to-do lists?
+2. How many recognitions have you received in your life?
+3. How many remarkable achievements are you proud of?
+
+The results of this analysis show that work-life balance scores and work-life score categories consistently increased with increasing values of the above questions for both males and females. There was no consistent trend across the questions for age group. 
